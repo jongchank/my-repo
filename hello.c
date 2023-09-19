@@ -3,7 +3,7 @@ void print_hello(void);
 int main(void)
 {
     print_hello();
-    return 1;
+    return 10;
 }
 void print_hello(void)
 {
